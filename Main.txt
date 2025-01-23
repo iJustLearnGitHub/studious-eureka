@@ -1,6 +1,5 @@
 Text 1
 Text 2 
-Tex 3
 usrApx: 2
 Default 2
 usrApx: 1
